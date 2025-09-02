@@ -62,7 +62,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone git@github.com:shahrob/rn-animated-auth-starter.git
-   cd reactNativeStarterAuth
+   cd rn-animated-auth-starter
    ```
 
 2. **Install dependencies**
